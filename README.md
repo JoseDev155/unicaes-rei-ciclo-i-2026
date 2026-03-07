@@ -6,7 +6,7 @@ Repositorio de notas y ejercicios de la asignatura.
 
 * SolarWinds
 * Aplicaciones móviles:
-  * **WiFi Analyzer** (Android) o **Network Analyzer** (iOS)
+  * **WiFi Analyzer** (Android) y **Network Analyzer** (iOS)
   * **Fing**
   * **NetSpot**
   * **Cell Tower Locator** y **Opensignal**
