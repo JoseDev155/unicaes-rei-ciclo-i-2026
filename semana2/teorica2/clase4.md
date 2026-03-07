@@ -1,7 +1,8 @@
 # Teórica 2 (REI) - 29/1/2026
 
-## **Tema: Introducción a los estándares IEEE 802.11 y su evolución**
+* Presentación: `T2-Introduccion a los estandares IEEE-802.11 y su evolucion.pdf`
 
+## **Tema: Introducción a los estándares IEEE 802.11 y su evolución**
 ### ¿Qué son los estándares IEEE 802.11
 
 * Conjunto de **especificaciones para redes de área local inalámbricas (WLAN)**.
@@ -16,7 +17,6 @@
   * calidad de servicio (QoS)
 
 ### Historia y evolución de los estándares IEEE 802.11
-
 #### 1. 1997: IEEE 802.11 original
 
 * Se introduce el primer estándar con velocidades de hasta 2 
@@ -44,7 +44,6 @@ con retrocompatibilidad.
 * Operación en **2.4 GHz y 5 GHz**.
 
 ### IEEE 802.11a: Primeras especificaciones
-
 #### IEEE 802.11a
 
 * Ratificado: **1999**.
@@ -79,7 +78,7 @@ Uso común: hogares, pequeñas oficinas.
 
 Ratificado en 2003. Importancia: Estándar dominante durante varios años.
 
-## IEEE 802.11n: Introducción de MIMO y mayor velocidad
+### IEEE 802.11n: Introducción de MIMO y mayor velocidad
 
 Características principales:
 
@@ -135,7 +134,6 @@ Beneficios:
 Evolución principal: aumento de **velocidad**, mayor **ancho de banda**, mejor **eficiencia espectral**.
 
 ### Frecuencias de funcionamiento y compatibilidad
-
 #### Banda 2.4 GHz
 
 Características:
@@ -164,7 +162,6 @@ Utilizada por:
 Muchos routers modernos son **dual‑band (2.4 GHz y 5 GHz)**.
 
 ### Seguridad en los estándares IEEE 802.11
-
 #### 1. WEP (1999)
 
 * Primer protocolo de seguridad.
@@ -186,7 +183,6 @@ Muchos routers modernos son **dual‑band (2.4 GHz y 5 GHz)**.
 * Mejor privacidad en **redes abiertas**.
 
 ### Aplicaciones y casos de uso de los estándares IEEE 802.11
-
 #### Hogares inteligentes
 
 * IoT
@@ -249,7 +245,6 @@ Factores que afectan el rendimiento:
 * interferencias
 
 ### Tendencias y evolución futura de los estándares IEEE 802.11
-
 #### 1. Wi‑Fi 6E y 7
 
 * Expansión a la banda de 6 GHz para mayor capacidad y velocidad. Wi-Fi 7 promete velocidades de hasta 30 Gbps y latencia ultrabaja.
@@ -276,7 +271,6 @@ Impacto: democratización del acceso a Internet, crecimiento de
 dispositivos móviles y nuevos modelos de negocio digitales.
 
 ### Integración de los estándares IEEE 802.11 con otras tecnologías
-
 #### Wi‑Fi y Bluetooth
 
 * Bluetooth: corto alcance, bajo consumo.
@@ -295,7 +289,6 @@ dispositivos móviles y nuevos modelos de negocio digitales.
   * Z‑Wave.
 
 ### Consideraciones de implementación y despliegue
-
 #### Planificación de red
 
 * análisis del entorno
@@ -313,7 +306,6 @@ dispositivos móviles y nuevos modelos de negocio digitales.
 * diseño preparado para **crecimiento futuro**.
 
 ### Estándares IEEE 802.11 en el contexto de IoT y 5G
-
 #### Wi‑Fi 6 e IoT
 
 * Mejor manejo de **muchos dispositivos simultáneos**.
