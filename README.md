@@ -5,6 +5,7 @@ Repositorio de notas y ejercicios de la asignatura.
 ## Tecnologías usadas
 
 * SolarWinds
+* UniFi
 * Aplicaciones móviles:
   * **WiFi Analyzer** (Android) y **Network Analyzer** (iOS)
   * **Fing**
