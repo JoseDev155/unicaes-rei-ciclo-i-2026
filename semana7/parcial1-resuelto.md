@@ -6,61 +6,61 @@
 
 ### Parte I – Preguntas de Opción Múltiple
 
-1. ¿Cuál es la función principal de una antena en una red inalámbrica?
+1. ¿Cuál es la función principal de una antena en una red inalámbrica?<br />
 a) Convertir señales digitales en paquetes IP
 **b) Convertir energía eléctrica en ondas electromagnéticas y viceversa**
 c) Amplificar señales digitales
 d) Conectar dispositivos mediante cable
 
-2. La ganancia de una antena se refiere a:
+2. La ganancia de una antena se refiere a:<br />
 a) La potencia eléctrica consumida
 **b) La capacidad de concentrar energía en una dirección específica**
 c) El tamaño físico de la antena
 d) La frecuencia de operación
 
-3. ¿Qué tipo de antena emite señal en todas las direcciones del plano horizontal?
+3. ¿Qué tipo de antena emite señal en todas las direcciones del plano horizontal?<br />
 a) Direccional
 b) Parabólica
 **c) Omnidireccional**
 d) Yagi-Uda
 
-4. Las antenas direccionales se caracterizan principalmente por:
+4. Las antenas direccionales se caracterizan principalmente por:<br />
 a) Tener cobertura de 360°
 b) Distribuir energía uniformemente
 **c) Concentrar energía en una dirección específica**
 d) Operar solo en redes cableadas
 
-5. ¿Cuál es una ventaja principal de la topología ESS frente a BSS?
+5. ¿Cuál es una ventaja principal de la topología ESS frente a BSS?<br />
 a) Menor complejidad
 b) Eliminación del punto de acceso
 **c) Mayor cobertura y movilidad**
 d) Eliminación del sistema de seguridad
 
-6. ¿Qué característica distingue principalmente a las redes IBSS frente a las BSS?
+6. ¿Qué característica distingue principalmente a las redes IBSS frente a las BSS?<br />
 a) Mayor seguridad
 b) Administración centralizada
 **c) Arquitectura descentralizada**
 d) Uso de VLAN
 
-7. ¿Cuál es el número típico de dispositivos para un funcionamiento eficiente en una red IBSS?
+7. ¿Cuál es el número típico de dispositivos para un funcionamiento eficiente en una red IBSS?<br />
 **a) 2 a 10 dispositivos**
 b) 20 a 30 dispositivos
 c) 50 dispositivos
 d) Más de 100 dispositivos
 
-8. ¿Qué característica del ESS permite a los usuarios moverse entre diferentes puntos de acceso sin perder conectividad?
+8. ¿Qué característica del ESS permite a los usuarios moverse entre diferentes puntos de acceso sin perder conectividad?<br />
 a) Autenticación WPA
 **b) Roaming**
 c) VLAN tagging
 d) MIMO
 
-9. ¿Qué estándar Wi-Fi introdujo la tecnología OFDMA?
+9. ¿Qué estándar Wi-Fi introdujo la tecnología OFDMA?<br />
 a) Wi-Fi 4
 b) Wi-Fi 5
 **c) Wi-Fi 6**
 d) Wi-Fi 3
 
-10. ¿Cuál de las siguientes tecnologías es característica de Wi-Fi 7?
+10. ¿Cuál de las siguientes tecnologías es característica de Wi-Fi 7?<br />
 a) OFDMA
 b) MIMO
 **c) Multi-Link Operation (MLO)**
