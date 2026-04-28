@@ -58,7 +58,7 @@ No pueden ser recopilados con **Opensignal**.
 
 **Consideraciones:** Los resultados están sujetos a las condiciones climáticas que azotan al país y la hora en que fueron hechas:
 
-* Condiciones climáticas: Fuertes vientos 
+* Condiciones climáticas: Fuertes vientos
 * Hora: Noche, de 6:35 - 8:20 p.m.
 * Instalaciones interiores y 2da planta cerradas por la hora, por lo que no se pudo hacer mediciones en esas zonas
 
